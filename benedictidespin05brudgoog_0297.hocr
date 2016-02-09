@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "benedictidespin05brudgoog_0297.png"; bbox 0 0 2548 3485; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1174 736 1353 810">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1174 736 1353 810">
+     <span class='ocr_line' id='line_1_1' title="bbox 1174 736 1353 810; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1174 736 1353 810; x_wconf 85' lang='lat' dir='ltr'><strong>Vll.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 573 1068 1968 1157">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 573 1068 1968 1157">
+     <span class='ocr_line' id='line_1_2' title="bbox 573 1068 1968 1157; baseline 0.001 -2"><span class='ocrx_word' id='word_1_2' title='bbox 573 1068 1201 1155; x_wconf 72' lang='lat' dir='ltr'>BENEnlc&#39;rl</span> <span class='ocrx_word' id='word_1_3' title='bbox 1274 1093 1404 1153; x_wconf 79' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1483 1094 1968 1157; x_wconf 78' lang='lat' dir='ltr'>SplNozA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 332 1322 2206 1797">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 332 1322 2206 1797">
+     <span class='ocr_line' id='line_1_3' title="bbox 788 1322 1766 1429; baseline 0.001 -1"><span class='ocrx_word' id='word_1_5' title='bbox 788 1322 1766 1429; x_wconf 80' lang='lat' dir='ltr'>coMPENDIUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 332 1551 2206 1797; baseline 0.002 -57"><span class='ocrx_word' id='word_1_6' title='bbox 332 1551 2206 1797; x_wconf 65' lang='lat' dir='ltr'><strong>GRAMMATNJE&#39;S</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 687 1889 1854 2000">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 687 1889 1854 2000">
+     <span class='ocr_line' id='line_1_5' title="bbox 687 1889 1854 2000; baseline 0.003 -4"><span class='ocrx_word' id='word_1_7' title='bbox 687 1889 1181 2000; x_wconf 36' lang='lat' dir='ltr'><strong>LINGUA&#39;E</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1251 1931 1854 2000; x_wconf 80' lang='lat' dir='ltr'><strong>HEBRAEAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 402 3107 1779 3186">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 402 3107 1779 3186">
+     <span class='ocr_line' id='line_1_6' title="bbox 402 3107 1779 3186; baseline -0.001 -16"><span class='ocrx_word' id='word_1_9' title='bbox 402 3107 628 3186; x_wconf 64' lang='lat' dir='ltr'><strong>Spifioza</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 648 3118 740 3170; x_wconf 86' lang='grc' dir='ltr'><strong>ΠΙ.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1717 3117 1779 3170; x_wconf 83' lang='grc'><strong>18</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
